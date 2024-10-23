@@ -32,7 +32,7 @@
 
 package Operadores;
 
-public class Operador_Um {
+public class OperadorUm {
     public static void main(String[] args) {
         String nomeCompleto = "LINGUAGEM" + "JAVA";
 
