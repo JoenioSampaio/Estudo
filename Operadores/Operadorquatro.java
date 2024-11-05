@@ -1,6 +1,6 @@
 //  package Operadores;
 
-// public class Operadorquatro {
+// public class OperadorQuatro {
 
 //     public static void main(String[] args) {       // encremento de numeros -  repetições para novos valores 
 //         int numero = 5;
@@ -19,7 +19,7 @@
 
  package Operadores;
 
-    public class Operadorquatro {
+    public class OperadorQuatro {
 
     public static void main(String[] args) {       
         
