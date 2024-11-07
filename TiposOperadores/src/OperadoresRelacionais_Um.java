@@ -1,4 +1,4 @@
-package Operadores;
+package TiposOperadores.src;
 
 public class OperadoresRelacionais_Um {
     

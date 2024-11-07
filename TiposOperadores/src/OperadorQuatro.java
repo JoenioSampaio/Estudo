@@ -17,7 +17,7 @@
     
 // } 
 
- package Operadores;
+ package TiposOperadores.src;
 
     public class OperadorQuatro {
 

@@ -1,4 +1,4 @@
-package Operadores;
+package TiposOperadores.src;
 
 public class operadorTernario_Dois {
     public static void main(String[] args) {         

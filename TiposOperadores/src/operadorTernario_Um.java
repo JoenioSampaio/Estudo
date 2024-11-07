@@ -1,4 +1,4 @@
-package Operadores;
+package TiposOperadores.src;
 
 public class operadorTernario_Um {
     public static void main(String[] args) {                // expressão bolleana para true ou false

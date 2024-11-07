@@ -1,4 +1,4 @@
-package Anatomiadasclasses;
+package TiposdeClasses.src;
 
 public class boletimEstudantil {                                  /** TITULO IDENTAÇÃO */
     public static void main(String[] args) {

@@ -30,7 +30,7 @@
 
 */
 
-package Operadores;
+package TiposOperadores.src;
 
 public class OperadorUm {
     public static void main(String[] args) {

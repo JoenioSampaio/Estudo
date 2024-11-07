@@ -1,4 +1,4 @@
-package Anatomiadasclasses;
+package TiposdeClasses.src;
      
     public class minhaClasse {    /**  METODOS */
     public static void main(String[] args) {
